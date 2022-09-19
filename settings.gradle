@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "DateConverterDemo"
 include ':app'
+include ':DateConverterSDK'
+project(':DateConverterSDK').projectDir = new File('DateConverterSDK/app')
+
+
