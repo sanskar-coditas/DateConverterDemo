@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DateConverterDemo</string>
+    <string name="convert_date">Convert Date</string>
 </resources>
